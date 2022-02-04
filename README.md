@@ -1,6 +1,6 @@
 Instructions for Connect 4 / README.md
 
-Clinet Side Files: 
+Client Side Files: 
 Connect4.js - Main javascript for functions such as checking winner, take turn, resetting board
 index.html & main.css - Support the front-end UI development of the game
 
